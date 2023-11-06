@@ -1,3 +1,6 @@
+# Knight's Tour Problem Solver
+This Python program solves the Knight's Tour problem with a visual interface, utilizing the Pygame library. This was my first project using Pygame.
+
 ## Prerequisites:
 - Python installed on your local machine (Python 3.x recommended).
 - Pip for installing Python packages.
